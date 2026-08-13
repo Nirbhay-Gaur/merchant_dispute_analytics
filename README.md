@@ -1,11 +1,10 @@
-# Merchant Dispute Analytics & Early-Warning Project
+# Merchant Dispute Analytics
 
 This is a portfolio/interview project using SYNTHETIC data.
 
 ## Business problem:
 
-A card network wants to understand merchant dispute performance, identify operational drivers,
-prioritize merchants that may need attention, and create an executive dashboard.
+A card network wants to understand merchant dispute performance, identify operational drivers, and create an executive dashboard.
 
 ## Technology:
 
