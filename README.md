@@ -37,4 +37,4 @@ prioritize merchants that may need attention, and create an executive dashboard.
 
 ## Dashboard
 
-![Merchant Dispute Performance Overview]('./power_bi/pic_dashboard.png')
+![Merchant Dispute Performance Overview]('power_bi/pic_dashboard.png')
